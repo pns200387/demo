@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EvaluationSommative2/1.0.0": {
+        "runtime": {
+          "EvaluationSommative2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EvaluationSommative2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

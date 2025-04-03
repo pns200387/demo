@@ -1,0 +1,10 @@
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/bin/Debug/net8.0/EvaluationSommative2
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/bin/Debug/net8.0/EvaluationSommative2.dll
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/bin/Debug/net8.0/EvaluationSommative2.pdb
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/EvaluationSommative2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/EvaluationSommative2.AssemblyInfoInputs.cache
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/EvaluationSommative2.AssemblyInfo.cs
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/EvaluationSommative2.csproj.CoreCompileInputs.cache
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/EvaluationSommative2.dll
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/refint/EvaluationSommative2.dll
+/Users/styvepeuyongassa/Documents/Collège la Cité 2024-2026/2024-2025/cours IFM30737 POO/POO/EvaluationSommative2/EvaluationSommative2/obj/Debug/net8.0/EvaluationSommative2.pdb
