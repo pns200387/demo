@@ -1,52 +1,14 @@
-[
-  {
-    "id": 1,
-    "image": "/assets/images/sakura.png",
-    "name": "Alice",
-    "telephone": "123-456-7890",
-    "email": "alice@example.com",
-    "adress": "123 Main St, Anytown, Canada",
-    "password": "1234",
-    "description": "Alice est une UX designer avec 5 ans d'expérience dans la création d'interfaces conviviales. Elle a un œil attentif aux détails et une passion pour l'amélioration de l'expérience utilisateur."
-  },
-  {
-    "id": 2,
-    "image": "/assets/images/chidori.jpg",
-    "name": "Bob",
-    "telephone": "987-654-3210",
-    "adress": "456 Elm St, Othertown, Canada",
-    "email": "bob@example.com",
-    "password": "1234",
-    "description": "Bob est un ingénieur logiciel avec 10 ans d'expérience dans le développement web. Il se spécialise dans React et Node.js et a une passion pour la création d'applications évolutives et efficaces."
-  },
-  {
-    "id": 3,
-    "image": "/assets/images/luffy.jpg",
-    "name": "styve",
-    "telephone": "555-555-5555",
-    "adress": "123 Main St, Anytown, Canada",
-    "email": "styve@gmail.com",
-    "password": "1234567890",
-    "description": "Styve est un développeur web avec une passion pour la création d'applications web innovantes. Il a de l'expérience dans diverses technologies web et aime apprendre de nouvelles compétences."
-  },
-  {
-    "id": 4,
-    "name": "Pat Mira",
-    "email": "patmira@gmail.com",
-    "password": "1234567890",
-    "image": "",
-    "telephone": "",
-    "adress": "",
-    "description": "Nouveau utilisateur"
-  },
-  {
-    "id": 5,
-    "name": "styve22",
-    "email": "styve22@gmail.com",
-    "password": "1234567890",
-    "image": "",
-    "telephone": "",
-    "adress": "",
-    "description": "Nouveau utilisateur"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
