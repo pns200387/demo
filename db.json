@@ -1,9 +1,10 @@
-{
+{ 
+  {   
     "id": 1,
     "name": "Alice",
     "telephone": "123-456-7890",
     "email": "alice@example.com"
-  
+  },
   {
     "id": 2,
     "name": "Bob",
