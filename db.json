@@ -2,19 +2,19 @@
   {   
     "id": 1,
     "name": "Alice",
-    "telephone": "123-456-7890",
+    "telephone": "1234567890",
     "email": "alice@example.com"
   },
   {
     "id": 2,
     "name": "Bob",
-    "telephone": "987-654-3210",
+    "telephone": "9876543210",
     "email": "bob@example.com"
   },
   {
     "id": 3
     "name": "styve",
-    "telephone": "555-555-5555",
+    "telephone": "5555555555",
     "email": "styve@gmail.com"
   },
   {
