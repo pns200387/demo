@@ -3,31 +3,30 @@
     "id": 1,
     "name": "Alice",
     "telephone": "1234567890",
-    "email": "alice@example.com"
+    "email": "alice@example.com",
   },
   {
     "id": 2,
     "name": "Bob",
     "telephone": "9876543210",
-    "email": "bob@example.com"
+    "email": "bob@example.com",
   },
   {
     "id": 3
     "name": "styve",
     "telephone": "5555555555",
-    "email": "styve@gmail.com"
+    "email": "styve@gmail.com",
   },
   {
     "id": 4,
     "name": "Pat Mira",
     "email": "patmira@gmail.com",
     "telephone": "3464567568",
-
   },
   {
     "id": 5,
     "name": "styve22",
     "email": "styve22@gmail.com",
-    "telephone": "45685321211"
+    "telephone": "45685321211",
   }
 ]
